@@ -1,0 +1,305 @@
+row_number,id,poi,type
+1,1456,"Happy Hallow Tavern, Horseshoe Bend, AR, United States",drink
+2,1466,"Alligator Ray's Pizza, Altus, AR, United States",eat
+3,1467,"Kelt's, Altus, AR, United States",eat
+4,2290,"Encore Records, Harrison, AR, United States",buy
+5,2334,"Pizza Pino, Harrison, AR, United States",eat
+6,3825,"Village Bakery & Cafe, Village, AR, United States",eat
+7,5345,"b Bistro, Little Rock, AR, United States",eat
+8,5634,"Sonar Bangla, Arkansas, United States of America",eat
+9,6428,"Locanda della Posta di Barolo, Township 4, AR, United States",sleep
+10,6694,"Best Western Scenic Motor Inn, Batesville, AR, United States",sleep
+11,7023,"Argenta Bead Company, Arkansas, United States of America",buy
+12,8112,"Best Western Inn, Benton, AR, United States",sleep
+13,8116,"Antiques Et Cetera & The Emporium, Arkansas, United States of America",buy
+14,8119,"Martin's Country Store, Arkansas, United States of America",buy
+15,8122,"Bee Spring Lodge Restaurant, Arkansas, United States of America",eat
+16,8127,"Bee Spring Lodge, Arkansas, United States of America",sleep
+17,8131,"Hester's Spot In The Sun, Arkansas, United States of America",sleep
+18,8135,"King Creek Resort & Marina, Arkansas, United States of America",sleep
+19,8136,"Malcolm Creek Resort, Arkansas, United States of America",sleep
+20,8137,"Shamrock Motel, Arkansas, United States of America",sleep
+21,8138,"Shawnee Bay Resort, Arkansas, United States of America",sleep
+22,8141,"Southern Komfort Resort, Arkansas, United States of America",sleep
+23,8147,"Table Mesa Bistro, Bentonville, AR, United States",eat
+24,8148,"Doe's Eat Place, Bentonville, AR, United States",eat
+25,8149,"The River Grille, Bentonville, AR, United States",eat
+26,8150,"Fred's Hickory Inn, Arkansas, United States of America",eat
+27,8151,"Orlando's Place, Bentonville, AR, United States",eat
+28,8152,"Petit Bistro, Bentonville, AR, United States",eat
+29,8153,"Redbud Cafe, Bentonville, AR, United States",eat
+30,8154,"The Station Cafe, Bentonville, AR, United States",eat
+31,8155,"Tavola, Bentonville, AR, United States",eat
+32,8157,"Executive Escape Lounge, Arkansas, United States of America",drink
+33,8158,"The Vendor Club, Arkansas, United States of America",drink
+34,8159,"Bentley's Irish Pub, Arkansas, United States of America",drink
+35,8160,"Best Western Castlerock Bentonville Inn, Bentonville, AR, United States",sleep
+36,8163,"SpringHill Suites Bentonville, Bentonville, AR, United States",sleep
+37,8164,"TownePlace Suites Bentonville/ Rogers, Bentonville, AR, United States",sleep
+38,8165,"Downriver Canoe Company, Arkansas, United States of America",do
+39,11892,"Best Western Beach Front Inn, Belleville, AR, United States",sleep
+40,11897,"Portside Suites, Belleville, AR, United States",sleep
+41,15256,"Heart O' Chicago Motel, Arkansas, United States of America",sleep
+42,15260,"Rogers Park Chamber of Commerce, Arkansas, United States of America",other
+43,15863,"Clarendon College, Arkansas, United States of America",see
+44,15868,"Tj D's Steakout, Arkansas, United States of America",eat
+45,15869,"Best Western Red River Inn, Arkansas, United States of America",sleep
+46,16993,"Colton's Steak House & Grill, Conway, Arkansas, United States of America",eat
+47,16994,"Jade China Restaurant, Conway, Arkansas, United States of America",eat
+48,16996,"Stoby's Restaurant, Conway, AR, United States",eat
+49,16997,"Pia's Fine Italian Dining, Gillett, AR, United States",eat
+50,16998,"Best Western Conway, Conway, AR, United States",sleep
+51,17002,"Rocking Chair Restaurant, Arkansas, United States of America",eat
+52,19850,"Bayless-Selby House Museum, Cotter, AR, United States",see
+53,21915,"Vintage Restaurant & Bar, Rogers, AR, United States",eat
+54,22819,"Tujo Pizza Deli, El Dorado, AR, United States",eat
+55,23392,"Red Barn Grocery, Van Buren, AR, United States",eat
+56,23470,"The Rosalie Tour & Wedding Home, Arkansas, United States of America",see
+57,23471,"Opera in the Ozarks, Eureka Springs, AR, United States",do
+58,23472,"DeVito's, Arkansas, United States of America",eat
+59,23473,"Ermilio's Italian Home Cooking, Eureka Springs, AR, United States",eat
+60,23475,"Alpen Dorf Motel, Eureka Springs, AR, United States",sleep
+61,23476,"East Mountain Lodge, Eureka Springs, AR, United States",sleep
+62,23477,"Edelweiss Inn, Arkansas, United States of America",sleep
+63,23478,"Fly Rod Inn Motel, Arkansas, United States of America",sleep
+64,23479,"Retreat at Sky Ridge Cabin Resort, Eureka Springs, AR, United States",sleep
+65,23480,"Sherwood Court, Arkansas, United States of America",sleep
+66,23481,"Statue Road Inn, Arkansas, United States of America",sleep
+67,23482,"Swiss Village Inn, Eureka Springs, AR, United States",sleep
+68,23483,"Thurman's Lodge, Arkansas, United States of America",sleep
+69,23484,"Trails Inn, Arkansas, United States of America",sleep
+70,23485,"Wagner Inn, Eureka Springs, AR, United States",sleep
+71,23486,"Brackenridge Lodge, Arkansas, United States of America",sleep
+72,23489,"Country Music Inn, Arkansas, United States of America",sleep
+73,23492,"Oak Crest Cottages, Arkansas, United States of America",sleep
+74,23493,"Pine Top Lodge, Eureka Springs, AR, United States",sleep
+75,23494,"Pointe West Resort, Arkansas, United States of America",sleep
+76,23497,"1905 Basin Park Hotel, Eureka Springs, AR, United States",sleep
+77,23499,"All Seasons Inn, Arkansas, United States of America",sleep
+78,23500,"Chantilly Lace Inn, Eureka Springs, AR, United States",sleep
+79,23501,"Cliff Cottage Inn, Eureka Springs, AR, United States",sleep
+80,23502,"Eureka Matterhorn Towers, Eureka Springs, AR, United States",sleep
+81,23503,"Island Motel and Resort Rentals, Eureka Springs, AR, United States",sleep
+82,23505,"Beaver Lakefront Cabins, Arkansas, United States of America",sleep
+83,23506,"Sugar Ridge Resort, Eureka Springs, AR, United States",sleep
+84,24106,"Devil's Den State Park, West Fork, AR, United States",see
+85,24107,"Mt. Sequoyah Conference and Retreat Center, Fayetteville, AR, United States",see
+86,24108,"Clinton House Museum, Fayetteville, AR, United States",see
+87,24112,"Chili Red's Coney Island, Fayetteville, AR, United States",eat
+88,24113,"Chloe, Fayetteville, AR, United States",eat
+89,24121,"Penguin Ed's B and B Barbeque, Fayetteville, AR, United States",eat
+90,24122,"Pesto Cafe, Fayetteville, Arkansas, United States of America",eat
+91,24123,"Petra Cafe, Fayetteville, AR, United States",eat
+92,24124,"Wilma's, Fayetteville, AR, United States",eat
+93,24125,"Ye Olde King Pizza, Fayetteville, AR, United States",eat
+94,24126,"Twin Arch Motel, Fayetteville, AR, United States",sleep
+95,24130,"Clarion Inn Fayetteville, Fayetteville, AR, United States",sleep
+96,24131,"Comfort Inn Fayetteville, Fayetteville, Arkansas, United States of America",sleep
+97,24132,"Cosmopolitan Hotel Fayetteville, Fayetteville, Arkansas, United States of America",sleep
+98,24134,"Courtyard by Marriott Fayetteville, Fayetteville, AR, United States",sleep
+99,24136,"Fairfield Inn Fayetteville AR, Fayetteville, AR, United States",sleep
+100,24137,"Holiday Inn Express Hotels, Fayetteville, AR, United States",sleep
+101,24140,"Regency 7 Motel, Fayetteville, Arkansas, United States of America",sleep
+102,24141,"Stay-Inn-Style Bed & Breakfast, Fayetteville, Arkansas, United States of America",sleep
+103,24142,"Super 8 Fayetteville AR, Fayetteville, AR, United States",sleep
+104,25045,"Bowling World, Fort Smith, AR, United States",do
+105,25046,"Jack's Skateland, Fort Smith, Arkansas, United States of America",do
+106,25047,"Solemates On The Avenue, Fort Smith, AR, United States",buy
+107,25048,"T's Boutique, Fort Smith, AR, United States",buy
+108,25050,"Doe's Steak House, Arkansas, United States of America",eat
+109,25051,"Diamond Head Restaurant, Arkansas, United States of America",eat
+110,25052,"Hamburger Barn, Fort Smith, AR, United States",eat
+111,25054,"Leoncia's, Arkansas, United States of America",eat
+112,25055,"Lin's Garden Chinese Restaurant, Fort Smith, AR, United States",eat
+113,25056,"Ole Feed House, Magnolia, AR, United States",eat
+114,25058,"Taliano's, Fort Smith, Arkansas, United States of America",eat
+115,25060,"Kinkead's, Fort Smith, Arkansas, United States of America",drink
+116,25061,"Rooster's Blues Bar, Fort Smith, AR, United States",drink
+117,25062,"Sweet Bay Coffee Co., Arkansas, United States of America",drink
+118,25063,"Tassanee's Thai Cuisine, Fort Smith, AR, United States",drink
+119,25064,"Aspen Hotel & Suites, Arkansas, United States of America",sleep
+120,25065,"Beland Manor Bed and Breakfast, Fort Smith, AR, United States",sleep
+121,25068,"Residence Inn Fort Smith, Fort Smith, Arkansas, United States of America",sleep
+122,25164,"Thomas Benton Hoover House, Hoover, AR, United States",see
+123,25324,"July Fly, Blytheville, AR, United States",buy
+124,26067,"Comfort Inn West, Little Rock, Arkansas, United States of America",sleep
+125,26341,"Home Girl's Inn, Hot Springs, Arkansas, United States of America",sleep
+126,28213,"Grey Rock, Horseshoe Bend, AR, United States",eat
+127,28369,"Devil's Fork Resort, Greers Ferry, AR, United States",sleep
+128,28370,"Narrows Inn, Arkansas, United States of America",sleep
+129,28371,"Sugar Maple Inn, Arkansas, United States of America",sleep
+130,28415,"Rosewood B&B, Rogers, AR, United States",sleep
+131,29905,"mystic caverns, Harrison, AR, United States",buy
+132,30432,"Delta Cultural Center, Helena, AR, United States",see
+133,30647,"Super 8 Hermitage Nashville Hotel, Arkansas, United States of America",sleep
+134,33649,"Jenkins Quality Barbecue, Osceola, AR, United States",eat
+135,34069,"D'Ark Training & Resort Sdn Bhd, AR, United States",sleep
+136,34164,"Prison Brews, Alma, AR, United States",do
+137,34187,"Kate & Ally's New York Pizzeria, Kate, AR, United States",eat
+138,34653,"Park Plaza, Little Rock, AR, United States",sleep
+139,34790,"Godsey's Grill, Arkansas, United States of America",eat
+140,34791,"Demo's Smokehouse and Barbecue, Arkansas, United States of America",eat
+141,34792,"Upper Crust Pizza Co., Arkansas, United States of America",eat
+142,34901,"Apple Alley Bakery, Fayetteville, AR, United States",eat
+143,35204,"Capers, Arkansas, United States of America",eat
+144,37608,"Three Rivers market, Arkadelphia, AR, United States",eat
+145,38732,"Star of India, Arkansas, United States of America",eat
+146,39271,"Rockpoint Hotsprings Resort-Hotel and Spa, Hot Springs Village, AR, United States",sleep
+147,39562,"Great Adirondack Steak and Seafood Company, Arkansas, United States of America",eat
+148,39874,"Township 7 Vineyards & Winery tasting, Township 7, AR, United States",do
+149,40364,"Village Ice Cream Parlor & Restaurant, Village, AR, United States",eat
+150,41912,"Little Rock Audubon Center, Little Rock, Arkansas, United States of America",see
+151,41914,"Central High School National Historic Site and Museum, Little Rock, AR, United States",see
+152,41915,"Daisy Bates House, Little Rock, AR, United States",see
+153,41916,"Gazette Building, Little Rock, AR, United States",see
+154,41917,"Heifer International Center, Little Rock, AR, United States",see
+155,41918,"KATV-7 Building, Arkansas, United States of America",see
+156,41919,"Little Rock National Cemetery, Little Rock, AR, United States",see
+157,41920,"Museum of Discovery, Arkansas, United States of America",see
+158,41921,"The Old State House, Arkansas, United States of America",see
+159,41922,"Arkansas Governor's Mansion, Arkansas, United States of America",see
+160,41923,"Trapnall Hall, Arkansas, United States of America",see
+161,41924,"Witt Stephens Jr. Central Arkansas Nature Center, Little Rock, Arkansas, United States of America",see
+162,41925,"Little Rock Zoo, Arkansas, United States of America",see
+163,41926,"Arkansas Inland Maritime Museum, Little Rock, AR, United States",see
+164,41927,"Verizon Arena, North Little Rock, AR, United States",see
+165,41928,"Arkansas Skatium, Arkansas, United States of America",do
+166,41929,"Camp Aldersgate, Little Rock, AR, United States",do
+167,41930,"Arkansas Repertory Theatre, Little Rock, AR, United States",do
+168,41931,"The Community Theatre of Little Rock, Little Rock, AR, United States",do
+169,41932,"Murry's Dinner Playhouse, Little Rock, AR, United States",do
+170,41933,"Wildwood Park for the Performing Arts, Arkansas, United States of America",do
+171,41935,"Pleasant Ridge Town Center, Little Rock, AR, United States",buy
+172,41936,"McCain Mall, North Little Rock, AR, United States",buy
+173,41938,"Butcher Shop Steak House, Arkansas, United States of America",eat
+174,41940,"Coffee Beanery Cafe, Little Rock, Arkansas, United States of America",eat
+175,41941,"Corky's Ribs and Barbecue, Little Rock, AR, United States",eat
+176,41942,"Cozymel's Mexican Grill, Little Rock, Arkansas, United States of America",eat
+177,41943,"Crew Restaurant, Little Rock, AR, United States",eat
+178,41944,"Delicious Temptations, Little Rock, AR, United States",eat
+179,41945,"Faded Rose West, Little Rock, AR, United States",eat
+180,41946,"Gaucho's Grill, Little Rock, AR, United States",eat
+181,41947,"Grumpy's Too Neighborhood Bar and Grill, Arkansas, United States of America",eat
+182,41948,"Gypsy's Grill and Bar, Little Rock, AR, United States",eat
+183,41949,"Imagine-A Restaurant, Arkansas, United States of America",eat
+184,41950,"Izzy's Famous Food Place, Arkansas, United States of America",eat
+185,41951,"Julie's, Arkansas, United States of America",eat
+186,41952,"Purple Cow II, Little Rock, AR, United States",eat
+187,41953,"Sekisui Sushi Bar & Hibachi Grill, Little Rock, Arkansas, United States of America",eat
+188,41955,"West End Smokehouse and Tavern, Little Rock, AR, United States",eat
+189,41956,"Brave New Restaurant, Little Rock, AR, United States",eat
+190,41957,"Ferneau, Little Rock, AR, United States",eat
+191,41958,"Days Inn and Suites Airport, Little Rock, AR, United States",sleep
+192,41959,"Comfort Inn and Suites Airport, Little Rock, AR, United States",sleep
+193,41960,"BW Governor's Suites Hotel, Arkansas, United States of America",sleep
+194,41962,"Holiday Inn Express West, Little Rock, AR, United States",sleep
+195,41964,"AmeriSuites Little Rock/Financial Center, Little Rock, AR, United States",sleep
+196,43323,"Lainie's, Hot Springs National Park, AR, United States",eat
+197,43335,"Buccaneer Motel, Hot Springs National Park, AR, United States",sleep
+198,43369,"Mariachi Grill, Arkansas, United States of America",eat
+199,43370,"Tidwell's Dairy Bar, Hazen, AR, United States",eat
+200,44431,"Edgewater Hotel, Horseshoe Bend, AR, United States",sleep
+201,44605,"Backyard BBQ, Magnolia, AR, United States",eat
+202,46946,"Limetree Restaurant, Mena, AR, United States",eat
+203,46947,"Skyline Cafe, Mena, AR, United States",eat
+204,46948,"True North Book & Bean Co., Arkansas, United States of America",drink
+205,46949,"Applewood Manor, Mena, AR, United States",sleep
+206,46950,"Mountain View Bed & Breakfast, Mena, Arkansas, United States of America",sleep
+207,47167,"Pete's Fish and Chips, Little Rock, Arkansas, United States of America",eat
+208,48720,"Papa Ron's Pizza, De Witt, AR, United States",eat
+209,49821,"Best Western Carriage Inn, Mountain Home, AR, United States",sleep
+210,51757,"Ramada Limited - Coliseum, Russellville, AR, United States",sleep
+211,51928,"Cafe Fresh Bagel, Jonesboro, AR, United States",eat
+212,53347,"Cabot's Ice Cream & Restaurant, Cabot, AR, United States",eat
+213,53400,"Sweet Pea Creams & Confections, Pea Ridge, AR, United States",buy
+214,54467,"Fairfield Inn Little Rock North, Little Rock, AR, United States",sleep
+215,54470,"Motel 6 Little Rock North, Arkansas, United States of America",sleep
+216,54471,"Residence Inn Little Rock North, Little Rock, AR, United States",sleep
+217,57394,"John W. Kyle State Park, Little Rock, AR, United States",sleep
+218,57643,"Bryerpatch Studio, Piggott, AR, United States",buy
+219,58047,"El Dorado Restaurant & Bar, El Dorado, AR, United States",eat
+220,60499,"FilmBar, Russellville, AR, United States",do
+221,61541,"Sutera Sanctuary Lodges, AR, United States",sleep
+222,66540,"Rogers Historical Museum, Rogers, AR, United States",see
+223,66543,"Embassy Suites Rogers/NW Arkansas, Rogers, AR, United States",sleep
+224,67292,"A+ Park Motel, Russellville, AR, United States",sleep
+225,67742,"El Mundo, Russellville, AR, United States",eat
+226,67867,"Hyatt Regency Saipan, Arkansas, United States of America",sleep
+227,70664,"Best Western Country Haven Inn, Searcy, AR, United States",sleep
+228,70666,"M Star Hotel, Searcy, AR, United States",sleep
+229,71803,"Big Meadows Wayside, Fayetteville, AR, United States",eat
+230,71805,"Loft Mountain, Fayetteville, AR, United States",drink
+231,71808,"Lewis Mountain Cabins, Fayetteville, AR, United States",sleep
+232,71810,"Big Meadows, Fayetteville, AR, United States",sleep
+233,71811,"Lewis Mountain, Fayetteville, AR, United States",sleep
+234,71958,"Z82 Retrocade, Sherwood, AR, United States",do
+235,74341,"The Jones Center for Families, Arkansas, United States of America",do
+236,74872,"Stellenbosch Traveller's Lodge, Lodge Corner, AR, United States",sleep
+237,74964,"Big River Grill, Centerton, AR, United States",eat
+238,75436,"DiJembe Backpackers Lodge, Lodge Corner, AR, United States",sleep
+239,75701,"Five Star BBQ & Steakhouse, Hot Springs National Park, AR, United States",eat
+240,77088,"Ryo's Noodles, Arkansas, United States of America",eat
+241,77089,"Jagos on Miller, Arkansas, United States of America",eat
+242,77095,"Genghis Khan Mongolian Barbeque Restaurant, Arkansas, United States of America",eat
+243,77098,"Seri Malaya Restaurant, Arkansas, United States of America",eat
+244,77099,"Qmin, Arkansas, United States of America",eat
+245,77105,"The Commodore Hotel, Arkansas, United States of America",drink
+246,79045,"Castello Di Borghese, Lowell, AR, United States",drink
+247,81501,"Akshaya Canteen, Little Rock, AR, United States",eat
+248,82162,"Big Jake's Cattle Company, Arkansas, United States of America",eat
+249,82163,"Best Western Van Buren Inn, Van Buren, AR, United States",sleep
+250,83604,"Eastwood Inn, Blytheville, AR, United States",sleep
+251,84017,"Old Ward Garage Cafe, Arkansas, United States of America",eat
+252,84189,"Zippel Bay Resort, Rogers, AR, United States",see
+253,84834,"Kinship, Bentonville, AR, United States",eat
+254,84841,"Clyde's, Bentonville, AR, United States",drink
+255,85402,"Pinto Lake RV Camping, Horseshoe Bend, AR, United States",sleep
+256,85821,"Cherokee Restaurant, El Dorado, AR, United States",eat
+257,86686,"Elementz, Hot Springs National Park, AR, United States",buy
+258,87627,"Gibson House Historical Museum, Camden, AR, United States",see
+259,90107,"Pig 'N Whistle, Hardy, AR, United States",eat
+260,90109,"Wood's Riverbend Restaurant, Mammoth Spring, AR, United States",eat
+261,90110,"La Pastorella, Arkansas, United States of America",eat
+262,90111,"Spring Dipper, Mammoth Spring, AR, United States",eat
+263,90112,"The Beverage Shoppe, Mammoth Spring, AR, United States",drink
+264,90113,"Mammoth Spring Lodge Motel, Hazen, AR, United States",sleep
+265,90146,"Rosecliff Lodge, Arkansas, United States of America",sleep
+266,90227,"Russellville Doughnuts, Arkansas, United States of America",eat
+267,90234,"Logan County Chamber of Commerce, Arkansas, United States of America",other
+268,90250,"Okean Market, O'Kean, AR, United States",eat
+269,93304,"Carter Barron Amphiteatre, Arkansas, United States of America",do
+270,93566,"Luxurious Arkasa Bay, Bay, AR, United States",sleep
+271,94700,"JJ Goodwin's Eatery & Sports Bar, Goodwin, AR, United States",drink
+272,95178,"Dance Place, Arkansas, United States of America",do
+273,95182,"Brookland's Finest, Arkansas, United States of America",eat
+274,95186,"Smith Public Trust, Arkansas, United States of America",drink
+275,95900,"Hope & Anchor Hotel, Hot Spring County, Arkansas, United States",sleep
+276,96900,"Jadul Village Resort & Spa, Village, AR, United States",sleep
+277,97626,"Hot & Tasty, Garland County, Arkansas, United States",eat
+278,98120,"Perrys Book & Map Shop, Perry, AR, United States",buy
+279,98187,"Colta, Colt, AR, United States",eat
+280,98895,"Buffalo River Motel, AR, United States",sleep
+281,98925,"Gaston's White River Resort, Bull Shoals, AR, United States",sleep
+282,101770,"Cave City Flea Market, Sharp County, Arkansas, United States",buy
+283,103609,"Best Western Sherwood Inn, Clarksville, AR, United States",sleep
+284,103950,"The Locals, Conway, AR, United States",eat
+285,103951,"Conway Inn & Restaurant, Conway, AR, United States",sleep
+286,105249,"3rd & Ferry Restaurant and Bar, Perry County, Arkansas, United States",eat
+287,105645,"Alpine Lodge, Eureka Springs, AR, United States",sleep
+288,105646,"Bavarian Inn and Restaurant, Carroll County, Arkansas, United States",sleep
+289,105647,"Roadrunner Inn, Eureka Springs, AR, United States",sleep
+290,105758,"Catfish Hole #3, Washington County, Arkansas, United States",eat
+291,105759,"Savor, Fayetteville, AR, United States",eat
+292,105760,"Whole Hog Café, Fayetteville, AR, United States",eat
+293,105997,"Central Mall, Fort Smith, AR, United States",buy
+294,105998,"Catfish Cove Restaurant, Fort Smith, AR, United States",eat
+295,106838,"Natures Edge, Greers Ferry, AR, United States",sleep
+296,185349,"Bathhouse Row, Hot Springs National Park, AR, United States",see
+297,185350,"Gulpha Gorge, Hot Springs, Arkansas, United States of America",sleep
+298,197858,"WWII Japanese American Internment Museum, McGehee, AR, United States",other
+299,197892,"Hot Springs (Arkansas), Hot Springs, AR, United States",other
+300,199171,"The Park at West End, Fort Smith, AR, United States",do
+301,199172,"Magic Springs & Crystal Falls Water and Theme Park, Hot Springs, AR, United States",do
+302,199173,"Sky Zone Little Rock, Maumelle, AR, United States",do
+303,199174,"Wild River Country, North Little Rock, AR, United States",do
+304,205614,"Aquatic Center, Alma, AR, United States",do

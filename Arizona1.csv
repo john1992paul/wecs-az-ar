@@ -1,0 +1,481 @@
+row_number,id,poi,type
+1,1909,"Bear Tooth Theatrepub, Show Low, AZ, United States",eat
+2,2511,"Hampton Inn Hotel, Arizona, United States of America",sleep
+3,3415,"Ash Fork Museum, Ash Fork, AZ, United States",see
+4,3416,"Ranch House Cafe, Ash Fork, AZ, United States",eat
+5,3417,"Oasis Lounge and Route 66 Grill, Ash Fork, AZ, United States",eat
+6,3418,"Ashfork Inn, Ash Fork, AZ, United States",sleep
+7,4427,"Mi Madres, Gilbert, AZ, United States",eat
+8,5068,"The Phoenix Bar, Phoenix, AZ, United States",drink
+9,7021,"AZ Bead Depot, Arizona, United States of America",buy
+10,7022,"Knit 1 Bead 2, Jerome, AZ, United States",buy
+11,9456,"Art and antiques, Bisbee, AZ, United States",buy
+12,10569,"Orpheum Theatre, Chandler, AZ, United States",do
+13,10669,"Housing Helpers, Gilbert, AZ, United States",sleep
+14,11362,"Best Western Ruby Inn, Coolidge, AZ, United States",sleep
+15,11585,"Pirate Walks, Bristol Square, AZ, United States",do
+16,11660,"The Berkeley Square, Bristol Square, AZ, United States",sleep
+17,11746,"Phoenix Eatery & Bar, Phoenix, AZ, United States",drink
+18,12410,"Eastmen Gin, Arizona, United States of America",see
+19,12411,"Grazie Pizzeria and Wine Bar, Arizona, United States of America",eat
+20,12412,"La Placita Cafe, Buckeye, AZ, United States",eat
+21,12413,"Verrado Grill, Arizona, United States of America",eat
+22,12414,"Wild West Cowboy Steakhouse, Buckeye, AZ, United States",eat
+23,13019,"Fred's Mesquite, AZ, United States",eat
+24,13025,"Lydia's Supper Club, Chandler, AZ, United States",eat
+25,13122,"Poncho's, Phoenix, AZ, United States",eat
+26,13511,"Romano's Macaroni Grill, Arizona, United States of America",eat
+27,13594,"Lake Pleasant, Peoria, AZ, United States",other
+28,13679,"Chino Bandido, Arizona, United States of America",eat
+29,14979,"Ann Taylor, Arizona, United States of America",buy
+30,14980,"Apple Store, Arizona, United States of America",buy
+31,15379,"The Outpost, Gold Canyon, AZ, United States",buy
+32,17542,"Cottonwood Computers, Arizona, United States of America",buy
+33,17544,"Holiday Quality Food Mart, Arizona, United States of America",buy
+34,17556,"Village Motel & Country Haus, Arizona, United States of America",sleep
+35,17859,"St. Eugene Mission Resort, Tucson, AZ, United States",sleep
+36,18170,"Flintstone's Bedrock City, AZ, United States",see
+37,19336,"Aught Six Grille, Maricopa, AZ, United States",eat
+38,19920,"Pizza School, Williams, AZ, United States",eat
+39,21666,"The Phoenix and Lily Garden Chinese restaurants, Phoenix, AZ, United States",eat
+40,22785,"Robson Ranch Bar & Grill, Arizona, United States of America",eat
+41,24263,"Alpine Guesthouse, Ajo, AZ, United States",sleep
+42,24459,"Zuni Festival of Arts and Culture, Flagstaff, AZ, United States",do
+43,24460,"Hopi Festival of Arts and Culture, Flagstaff, Arizona, United States of America",do
+44,24461,"Navajo Festival of Arts and Culture, Flagstaff, AZ, United States",do
+45,24462,"Celebraciones de la Gente, Arizona, United States of America",do
+46,25053,"Jerry Neel's BBQ, Phoenix, AZ, United States",eat
+47,25173,"Steakhouse at Desert Canyon, Fountain Hills, AZ, United States",eat
+48,25174,"Comfort Inn Fountain Hills, Arizona, United States of America",sleep
+49,25175,"Inn at Eagle Mountain, Fountain Hills, AZ, United States",sleep
+50,25176,"Sleep Inn Phoenix, Phoenix, AZ, United States",sleep
+51,26788,"Cosmo Dog Park, Gilbert, AZ, United States",see
+52,26789,"Riparian Preserve at Water Ranch, Gilbert, AZ, United States",see
+53,26791,"Hale Centre Theatre, Arizona, United States of America",do
+54,26792,"Aldo, Gilbert, AZ, United States",buy
+55,26793,"American Eagle Outfitters, Arizona, United States of America",buy
+56,26794,"Anchor Blue, Gilbert, AZ, United States",buy
+57,26801,"Joe's Real Barbeque, Gilbert, AZ, United States",eat
+58,26802,"Joe's Farm Grill, Gilbert, AZ, United States",eat
+59,26803,"Flancers Cafe, Arizona, United States of America",eat
+60,26804,"Lulu's Taco Shop, Gilbert, AZ, United States",eat
+61,26805,"Some Burros!, Arizona, United States of America",eat
+62,26806,"Waldo's BBQ, Arizona, United States of America",eat
+63,26809,"Oregano's Pizza Bistro, Arizona, United States of America",eat
+64,26811,"Serrano's Mexican Restaurant, Gilbert, AZ, United States",eat
+65,26812,"Auntie Anne's, Arizona, United States of America",eat
+66,27015,"Bernerhof Inn, Arizona, United States of America",sleep
+67,27026,"Cerreta Candy Factory, Arizona, United States of America",do
+68,27027,"Deer Valley Rock Art Center, Glendale, AZ, United States",do
+69,27028,"Sahuaro Ranch Park, Glendale, AZ, United States",do
+70,27029,"Foothills SK8 Court Plaza,, Arizona, United States of America",do
+71,27031,"Foothills Recreation and Aquatics Center, Glendale, AZ, United States",do
+72,27032,"Haus Murphy, Glendale, AZ, United States",eat
+73,27033,"Bitz-ee Mamas, Glendale, AZ, United States",eat
+74,27034,"Pizza Old Roma, Arizona, United States of America",eat
+75,27035,"Le Chalet, Glendale, AZ, United States",eat
+76,27038,"WestGate, Glendale, AZ, United States",drink
+77,27039,"Salty Senorita, Glendale, Arizona, United States of America",drink
+78,27041,"MainStay Suites at Metro Center, Arizona, United States of America",sleep
+79,27043,"Hampton Inn & Suites Phoenix Glendale/Westgate, Phoenix, Arizona, United States of America",sleep
+80,27044,"Mamita Peruvian Restaurant, Arizona, United States of America",eat
+81,27337,"Estrella Mountain Regional Park, Goodyear, AZ, United States",do
+82,27941,"Ethereal Cafe, Buckeye, AZ, United States",drink
+83,32554,"Phoenix Gold Mine, Phoenix, AZ, United States",see
+84,33548,"Bishop's Motel, Arizona, United States of America",sleep
+85,34826,"Jack Rabbit Trading Post, Winslow, AZ, United States",buy
+86,34827,"Love's Travel Stop, Joseph City, AZ, United States",eat
+87,35370,"Quail Park Lodge, Fredonia, AZ, United States",sleep
+88,35997,"Navajo Taco Stand near code talker Burger King, Arizona, United States of America",eat
+89,37113,"McCarran International Airport, Bullhead City, AZ, United States",other
+90,37114,"Kingman Visitor Center Gift Shop, Kingman, AZ, United States",buy
+91,39776,"Willow Valley Inn & Suites, Willow Valley, AZ, United States",sleep
+92,40231,"Pick Up Stix, Litchfield Park, AZ, United States",eat
+93,41832,"The Wigwam Golf Resort & Spa, Litchfield Park, Arizona, United States of America",sleep
+94,45901,"La Salsa Fresco Taqueria Marescos, Arizona, United States of America",eat
+95,47015,"Red Cedar Valley Farms, Valley Farms, AZ, United States",do
+96,47149,"Cactus League Spring Training, Mesa, AZ, United States",do
+97,47150,"Fighter Combat International, Mesa, AZ, United States",do
+98,47151,"Stratum Laser Tag, Mesa, AZ, United States",do
+99,47152,"Desert Belle Paddleboat Cruises, Arizona, United States of America",do
+100,47153,"Saguaro Lake Ranch Trail Rides, Arizona, United States of America",do
+101,47154,"Salt River Tubing and Recreation, Mesa, AZ, United States",do
+102,47155,"Tonto National Forest, Mesa District, Arizona, United States of America",do
+103,47156,"Arizona Fall League, Mesa, AZ, United States",do
+104,47157,"Chicago Cubs Spring Training, Arizona, United States of America",do
+105,47158,"Mesa Music Festival, Arizona, United States of America",do
+106,47161,"Dana Park, Arizona, United States of America",buy
+107,47162,"Mesa Riverview, Mesa, AZ, United States",buy
+108,47163,"Asylum Records, Arizona, United States of America",buy
+109,47164,"Baby Kay's Cajun Kitchen, Arizona, United States of America",eat
+110,47165,"Costa Vida Fresh Mexican Grill, Mesa, AZ, United States",eat
+111,47166,"Matta's, Mesa, AZ, United States",eat
+112,47168,"Rosa's Mexican Grill, Arizona, United States of America",eat
+113,47170,"Organ Stop Pizza, Mesa, AZ, United States",eat
+114,47173,"RT O'Sullivan's Bar and Grill, Arizona, United States of America",drink
+115,47174,"Desert Eagle Brewery, Arizona, United States of America",drink
+116,47175,"Arizona Golf Resort, Mesa, AZ, United States",sleep
+117,47177,"Mesa Hilton, Mesa, AZ, United States",sleep
+118,47180,"Westgate Painted Mountain Country Club, Arizona, United States of America",sleep
+119,47181,"Courtyard Phoenix Mesa, Mesa, AZ, United States",sleep
+120,49874,"Astronomy Camp, Tucson, AZ, United States",do
+121,54041,"New Victorian Inns, Mesa, AZ, United States",sleep
+122,55189,"Phnom Penh House, Globe, AZ, United States",eat
+123,55351,"Gold Road Mine Tour, Oatman, AZ, United States",do
+124,55352,"Oatman Stables, Oatman, AZ, United States",do
+125,56547,"Evening programs, AZ, United States",see
+126,56548,"Patio talks, AZ, United States",see
+127,56576,"Orlando Solar Bears, Florence, AZ, United States",do
+128,57276,"Box Canyon Lodge & Hot Springs, AZ, United States",sleep
+129,57690,"Starlite Restaurant, Arizona, United States of America",eat
+130,57691,"Slackers, Arizona, United States of America",eat
+131,57692,"Bowzer's Sports Bar, Page, AZ, United States",drink
+132,57696,"Lake Powell International Hostel, Page, AZ, United States",sleep
+133,57699,"Rodeway Inn Page Arizona, Page, AZ, United States",sleep
+134,57700,"Page Lake Powell Campground (PLPC), Arizona, United States of America",sleep
+135,57701,"Wahweap RV Park, Arizona, United States of America",sleep
+136,57819,"Premier Inn Hotel Glasgow (Paisley), Phoenix, AZ, United States",sleep
+137,58022,"Schooner Saloon Restaurant, Phoenix, AZ, United States",eat
+138,58039,"Big Tuna, Phoenix, AZ, United States",eat
+139,58056,"Claim Jumper, Oro Valley, AZ, United States",eat
+140,58080,"Rubio's Mexican Grill, Phoenix, AZ, United States",eat
+141,58157,"Best Western Inn at Palm Springs, Arizona, United States of America",sleep
+142,58160,"Motel 6 Downtown, Chandler, AZ, United States",sleep
+143,59383,"Grand Canyon Caverns, Grand Canyon Caverns, AZ, United States",see
+144,59385,"Diamond Creek Restaurant Baja, Arizona, United States of America",eat
+145,59386,"Fireside, Peach Springs, AZ, United States",eat
+146,59387,"Grand Canyon Caverns Inn, Grand Canyon Caverns, AZ, United States",sleep
+147,59388,"Hualapai Lodge, Arizona, United States of America",sleep
+148,59389,"Orlando Motel, Peach Springs, AZ, United States",sleep
+149,59787,"Arizona Broadway Theatre, Peoria, AZ, United States",do
+150,59790,"Polar Ice, Peoria, AZ, United States",do
+151,59791,"Regala Fashions with Flair, Peoria, AZ, United States",do
+152,59792,"Arizona United, Peoria, AZ, United States",do
+153,59793,"D & I Beads, Arizona, United States of America",buy
+154,59795,"Satara Thai Cuisine and Wine Lounge, Peoria, AZ, United States",eat
+155,59796,"Cucina Tagliani, Peoria, AZ, United States",eat
+156,59798,"Sandbar Mexican Grill, Peoria, AZ, United States",drink
+157,60490,"Desert Botanical Garden, Arizona, United States of America",see
+158,60491,"Ro Ho En Japanese Friendship Garden, Arizona, United States of America",see
+159,60493,"Arizona State Capitol Museum, Arizona, United States of America",see
+160,60494,"Phoenix Police Museum, Phoenix, Arizona, United States of America",see
+161,60495,"Children's Museum of Phoenix, Phoenix, AZ, United States",see
+162,60496,"Pioneer Living History Village, Arizona, United States of America",see
+163,60497,"Rosson House Museum, Phoenix, AZ, United States",see
+164,60498,"Cityscape, Phoenix, AZ, United States",do
+165,60500,"Downtown Phoenix Farmers Market, Arizona, United States of America",do
+166,60501,"The Nash, Phoenix, AZ, United States",do
+167,60504,"Arizona Grand Spa, Phoenix, AZ, United States",do
+168,60505,"Piestewa Peak, Phoenix, AZ, United States",do
+169,60506,"North Mountain, Phoenix, AZ, United States",do
+170,60507,"Ben Avery Shooting Facility, Phoenix, AZ, United States",do
+171,60508,"Arizona Grand Golf Course, Arizona, United States of America",do
+172,60509,"Phoenix Symphony, Arizona, United States of America",do
+173,60510,"Arizona Opera, Arizona, United States of America",do
+174,60512,"Phoenix Theatre, Phoenix, AZ, United States",do
+175,60513,"Arizona Diamondbacks, Phoenix, AZ, United States",do
+176,60514,"Phoenix Suns, Arizona, United States of America",do
+177,60515,"Arizona Cardinals, Glendale, AZ, United States",do
+178,60516,"Arizona Coyotes, Arizona, United States of America",do
+179,60517,"Phoenix Mercury, Arizona, United States of America",do
+180,60518,"Cactus League Spring Training Baseball, Phoenix, AZ, United States",do
+181,60519,"Arizona State Sun Devils, Tempe, AZ, United States",do
+182,60521,"Real, Wild and Woody Beer Festival, Phoenix, AZ, United States",do
+183,60522,"Phoenix Film Festival, Arizona, United States of America",do
+184,60523,"Arizona Matsuri, Phoenix, AZ, United States",do
+185,60524,"PF Changs Rock n'Roll Marathon, Phoenix, AZ, United States",do
+186,60525,"Ford Ironman Arizona, Phoenix, AZ, United States",do
+187,60527,"Phoenix Open, Phoenix, AZ, United States",do
+188,60528,"Avondale World Fest, Phoenix, AZ, United States",do
+189,60529,"Lawn Gnome Publishing, Phoenix, AZ, United States",buy
+190,60530,"Hidden Track Bottle Shop, Arizona, United States of America",buy
+191,60532,"Chicago Hamburger Company, Phoenix, AZ, United States",eat
+192,60534,"Tee Pee Mexican Food, Goodyear, AZ, United States",eat
+193,60535,"Alice Cooper'stown, Phoenix, Arizona, United States of America",eat
+194,60536,"Aunt Chilada's Squaw Peak, Phoenix, AZ, United States",eat
+195,60537,"Delux Burger, Phoenix, AZ, United States",eat
+196,60538,"The Duce, Phoenix, AZ, United States",eat
+197,60539,"L'amore, Phoenix, AZ, United States",eat
+198,60540,"La Grande Orange Grocery, Phoenix, AZ, United States",eat
+199,60541,"Los Dos Molinos, Phoenix, AZ, United States",eat
+200,60542,"Majerles Sports Grill, Phoenix, AZ, United States",eat
+201,60543,"The Parlor Pizzeria, Phoenix, AZ, United States",eat
+202,60544,"Phoenix City Grille, Arizona, United States of America",eat
+203,60545,"Texaz Grill, Phoenix, AZ, United States",eat
+204,60546,"Thai Lahna, Arizona, United States of America",eat
+205,60548,"The Breadfruit, Phoenix, AZ, United States",eat
+206,60549,"Donovan's Steakhouse Restaurant, Arizona, United States of America",eat
+207,60550,"El Chorro, Paradise Valley, AZ, United States",eat
+208,60551,"Fuego Bistro, Littlefield, AZ, United States",eat
+209,60552,"Rustler's Rooste, Arizona, United States of America",eat
+210,60553,"The Stockyards Restaurant, Phoenix, AZ, United States",eat
+211,60554,"Tarbell's, Phoenix, AZ, United States",eat
+212,60556,"Hanny's, Arizona, United States of America",drink
+213,60557,"Angels Trumpet Ale House, Tempe, AZ, United States",drink
+214,60558,"Crescent Ballroom, Phoenix, AZ, United States",drink
+215,60559,"Seamus McCaffrey's, Phoenix, AZ, United States",drink
+216,60560,"Valley Bar, Phoenix, AZ, United States",drink
+217,60561,"Cobra Arcade Bar, Arizona, United States of America",drink
+218,60562,"Rosie McCaffreys Irish Pub, Phoenix, AZ, United States",drink
+219,60563,"MercBar, Phoenix, AZ, United States",drink
+220,60564,"Postino Wine Cafe, Phoenix, AZ, United States",drink
+221,60565,"Half Moon Sports Grill, Phoenix, AZ, United States",drink
+222,60566,"Hostelling International Phoenix, Phoenix, AZ, United States",sleep
+223,60567,"Hilton Garden Inn Phoenix/Avondale, Avondale, AZ, United States",sleep
+224,60568,"Homewood Suites Phoenix-Avondale, Arizona, United States of America",sleep
+225,60569,"Homewood Suites Phoenix North/Happy Valley, Phoenix, AZ, United States",sleep
+226,60570,"Hyatt Place Phoenix North, Phoenix, AZ, United States",sleep
+227,60571,"Premier Inns, Arizona, United States of America",sleep
+228,60572,"Sleep Inn Phoenix North, Phoenix, AZ, United States",sleep
+229,60573,"Courtyard Phoenix West/Avondale, Arizona, United States of America",sleep
+230,60574,"Courtyard Phoenix Camelback, Phoenix, AZ, United States",sleep
+231,60576,"Embassy Suites Biltmore Hotel, Phoenix, AZ, United States",sleep
+232,60577,"Hampton Inn Phoenix-Airport North, Phoenix, AZ, United States",sleep
+233,60578,"The Legacy Golf Resort, Phoenix, AZ, United States",sleep
+234,60580,"SpringHill Suites Phoenix Downtown, Phoenix, Arizona, United States of America",sleep
+235,60581,"Arizona Biltmore, Phoenix, AZ, United States",sleep
+236,60582,"Arizona Grand Resort, Arizona, United States of America",sleep
+237,60583,"Pointe Hilton Squaw Peak, Phoenix, AZ, United States",sleep
+238,60588,"Arizona Business Gazette, Phoenix, AZ, United States",other
+239,60589,"Arizona Capitol Times, Phoenix, AZ, United States",other
+240,60592,"Guatemala (Consulate General), Phoenix, AZ, United States",other
+241,60593,"Honduras (Consulate General), Arizona, United States of America",other
+242,60594,"Mexico (Consulate General), Arizona, United States of America",other
+243,60599,"Estonia (Honorary), Scottsdale, AZ, United States",other
+244,60602,"Iceland (Honorary), Phoenix, AZ, United States",other
+245,60604,"Peru (Honorary), Arizona, United States of America",other
+246,60606,"Sri Lanka (Honorary), Phoenix, AZ, United States",other
+247,60820,"The Heritage Center at Red Cloud Indian School, Arizona, United States of America",see
+248,62548,"Mile-High Trail System, Prescott, AZ, United States",do
+249,62549,"Prescott Indian Art Market, Prescott, AZ, United States",do
+250,62620,"The Village in Hatfield _, Bullhead City, AZ, United States",sleep
+251,65601,"Meadow Farm Museum, Tucson, AZ, United States",do
+252,68881,"San Francisco International Film Festival, San Luis, AZ, United States",do
+253,69200,"Sports Fan Club, Florence, AZ, United States",drink
+254,70577,"Kazimierz, Scottsdale, AZ, United States",drink
+255,70581,"Hilton Scottsdale Resort & Villas, Arizona, United States of America",sleep
+256,70583,"Scottsdale Plaza Resort, Arizona, United States of America",sleep
+257,70584,"Scottsdale Resort, Arizona, United States of America",sleep
+258,70586,"Westin Kierland Resort and Spa, Scottsdale, AZ, United States",sleep
+259,70587,"Radisson Fort McDowell Resort and Casino, Arizona, United States of America",sleep
+260,70588,"Scottsdale Marriott Suites Old Town, Phoenix, AZ, United States",sleep
+261,70589,"Hilton Garden Inn Scottsdale North/Perimeter Center, Scottsdale, AZ, United States",sleep
+262,70590,"Valley Ho, Scottsdale, AZ, United States",sleep
+263,70591,"The Hermosa Inn, Paradise Valley, AZ, United States",sleep
+264,70592,"JW Marriott Scottsdale Camelback Inn Resort & Spa, Scottsdale, AZ, United States",sleep
+265,70593,"Scottsdale Cottonwoods, Scottsdale, AZ, United States",sleep
+266,70594,"Fairmont Scottsdale Princess, Arizona, United States of America",sleep
+267,70595,"The Phoenician, Scottsdale, AZ, United States",sleep
+268,70596,"Resort Suites, Scottsdale, AZ, United States",sleep
+269,70597,"Scottsdale Resort & Athletic Club, Scottsdale, AZ, United States",sleep
+270,70598,"Talking Stick Resort, Scottsdale, AZ, United States",sleep
+271,70833,"Chakra Healing Arts Center, Sedona, AZ, United States",do
+272,70845,"Boneyard BBQ & Saloon, Boneyard, AZ, United States",eat
+273,70891,"Delgadillos Historic Route 66 Visitor Center, Seligman, AZ, United States",see
+274,70892,"Historic Seligman Sundries, Seligman, AZ, United States",see
+275,70896,"Ok Saloon & Route 66 Roadkill, Arizona, United States of America",eat
+276,70897,"Westside Lilo's Cafe, Arizona, United States of America",eat
+277,70898,"Black Cat Bar, Seligman, AZ, United States",drink
+278,70901,"Canyon Lodge, Seligman, AZ, United States",sleep
+279,70903,"Historic Route 66 Motel, Seligman, AZ, United States",sleep
+280,70904,"Romney Motel, Seligman, AZ, United States",sleep
+281,70905,"Stagecoach 66 Motel, Arizona, United States of America",sleep
+282,70906,"Supai Motel, Arizona, United States of America",sleep
+283,72277,"Tucson International Airport, Arizona, United States of America",other
+284,72278,"Arizona World Shuttle Express, Sierra Vista, AZ, United States",other
+285,72279,"The Mall at Sierra Vista, Sierra Vista, AZ, United States",other
+286,73913,"Anza Days, Tubac, AZ, United States",do
+287,73914,"Annual Sonoita Horse Races, Sonoita, AZ, United States",do
+288,73925,"Chiricahua Mountains, Arizona, United States of America",do
+289,75095,"Red Rock Bakery & Deli, Red Rock, AZ, United States",eat
+290,76211,"Sun City Visitors Center, Arizona, United States of America",other
+291,76212,"Coco's Bakery Restaurant, Arizona, United States of America",eat
+292,76214,"The Lodge at Sun Ridge, Sun City, AZ, United States",sleep
+293,77684,"Country Garden Phoenix Hotel, Phoenix, AZ, United States",eat
+294,77924,"Bella Bella, Sierra Vista, AZ, United States",eat
+295,78651,"Arizona State University, Tempe, AZ, United States",see
+296,78652,"Tempe Festival of the Arts, Tempe, AZ, United States",do
+297,80153,"Linda's Deli, Arizona, United States of America",eat
+298,80257,"Red Rock Restaurant & Bar, Red Rock, AZ, United States",drink
+299,80849,"Sze Chuan Restaurant, Tuba City, AZ, United States",eat
+300,80850,"Taxi Tucson, Arizona, United States of America",other
+301,80851,"Barrio Viejo, Tucson, AZ, United States",see
+302,80852,"Sushi Ten, Tucson, AZ, United States",eat
+303,81113,"Red Feather Lodge, Arizona, United States of America",sleep
+304,82878,"Best Western Vero, Tucson, AZ, United States",sleep
+305,83336,"The Southern Pacific Depot, Nogales, AZ, United States",eat
+306,84769,"The Palm, Phoenix, AZ, United States",eat
+307,86238,"PGA National Resort & Spa, Page, AZ, United States",sleep
+308,86757,"Dazzos, Wikieup, AZ, United States",eat
+309,86758,"Lucia's Restaurant, Wikieup, AZ, United States",eat
+310,86759,"Wikieup Trading Post Motel, Lake Havasu City, AZ, United States",sleep
+311,87392,"Old Trails Museum Store, Winslow, AZ, United States",buy
+312,87393,"Winslow Museum, Arizona, United States of America",see
+313,87394,"Sky-Vue Lodge, Arizona, United States of America",sleep
+314,88570,"Williams Eatery & Gathering Place, Williams, AZ, United States",eat
+315,89108,"Yuma Proving Ground Heritage Center, AZ, United States",see
+316,89191,"Distillery Museum De Tweekoppige Phoenix, Phoenix, AZ, United States",see
+317,89693,"Chalet Market, Buckeye, AZ, United States",eat
+318,89907,"St. Lawrence Shakespeare Festival, Arizona, United States of America",do
+319,89914,"Dewar's Inn on the River, Arizona, United States of America",sleep
+320,90295,"Mormon Lake Lodge, Arizona, United States of America",do
+321,90656,"Kingman Airport, Bullhead City, AZ, United States",other
+322,92066,"Annual Mariachi Festival, Patagonia, AZ, United States",do
+323,92219,"Spring Lake Beach and Arcade, Arizona, United States of America",do
+324,94401,"Tip Top Natural Foods & Country Store, Tip Top, AZ, United States",buy
+325,95874,"Post office # 2, Maricopa County, Arizona, United States",other
+326,95875,"Post office # 4, Maricopa County, Arizona, United States",other
+327,96295,"Hotel Palmas del Sol, Palmas del Sol, AZ, United States",sleep
+328,96519,"Suburban Extended Stay Hotel, Avondale, AZ, United States",sleep
+329,98829,"Buckeye Valley Archeological & Historical Museum, Buckeye, AZ, United States",do
+330,99058,"Radisson Blu Resort & Spa, Maricopa County, Arizona, United States",sleep
+331,101083,"Phoenix House, Phoenix, AZ, United States",sleep
+332,101119,"Blue Sky Restaurant and Gallery, Maricopa County, Arizona, United States",eat
+333,101464,"Arizona City Golf Club, Casa Grande, AZ, United States",do
+334,101465,"Casa Grande Municipal Aiport, Casa Grande, AZ, United States",other
+335,101777,"Magic Bird Festivals, Maricopa County, Arizona, United States",do
+336,101778,"Christmas Pageant and Luminaria Run, Cave Creek, AZ, United States",do
+337,101779,"Art galleries, Cave Creek, AZ, United States",buy
+338,101780,"Bartlet Lake, AZ, United States",other
+339,102254,"Zelma Basha Salmeri Gallery of Western American and Native American Art, Chandler, AZ, United States",see
+340,102255,"Play the slots at Lone Butte Casino, Chandler, AZ, United States",do
+341,102256,"Ostrich Festival, Maricopa County, Arizona, United States",do
+342,102257,"Guedo's Taco Shop, Chandler, AZ, United States",eat
+343,102258,"Heart Attack Grill, Chandler, AZ, United States",eat
+344,102259,"Rawhide, Chandler, AZ, United States",eat
+345,102260,"The Wild Hare, Chandler, AZ, United States",drink
+346,102261,"SanTan Brewing Company, Chandler, AZ, United States",drink
+347,102262,"Vintage 95, Maricopa County, Arizona, United States",drink
+348,102953,"Post office #6, Maricopa County, Arizona, United States",other
+349,102955,"Post office #24, Maricopa County, Arizona, United States",other
+350,103349,"Chicken Gold Camp & Outpost, Gold Canyon, AZ, United States",sleep
+351,105444,"Sky Dive Arizona, Eloy, AZ, United States",do
+352,106132,"French River Trading Post, Motel & Restaurant, Scottsdale, AZ, United States",buy
+353,106471,"Euro Cafe, Gilbert, AZ, United States",eat
+354,106472,"Phoenicia Cafe II, Gilbert, AZ, United States",eat
+355,106474,"Country Cottage Cafe and Gift Shop, Gilbert, AZ, United States",eat
+356,106475,"Yao Chinese Cuisine, Gilbert, AZ, United States",eat
+357,106476,"Pier Fish X Chips, Gilbert, AZ, United States",eat
+358,106477,"Pita Jungle, Gilbert, AZ, United States",eat
+359,106540,"Wahweap Campground and RV Park, Coconino County, Arizona, United States",sleep
+360,106543,"Glendale Aquatic Center, Maricopa County, Arizona, United States",do
+361,106544,"Lenny’s Burgers, Glendale, AZ, United States",eat
+362,106545,"A Touch of European Café, Glendale, AZ, United States",eat
+363,183721,"Black Mountain Summit Park, Carefree, AZ, United States",do
+364,183865,"Bonita Canyon Campground, Willcox, AZ, United States",sleep
+365,184661,"Bonito Campground, Flagstaff, AZ, United States",sleep
+366,184662,"Canyon Vista Campground, Flagstaff, AZ, United States",sleep
+367,185026,"Grand Canyon Village, Grand Canyon, AZ, United States",see
+368,185027,"Hermit's Rest, Grand Canyon, AZ, United States",see
+369,185029,"Bright Angel Lodge, Grand Canyon, AZ, United States",sleep
+370,185030,"El Tovar Hotel, Grand Canyon, AZ, United States",sleep
+371,185031,"Phantom Ranch, Grand Canyon, AZ, United States",sleep
+372,185573,"Old Jerome High School, Jerome, AZ, United States",buy
+373,185957,"Monolith Garden Trail, Kingman, AZ, United States",do
+374,187213,"Monument Valley Safari, Kayenta, AZ, United States",do
+375,187220,"Rock hunting in Limestone Canyon, Clifton, AZ, United States",do
+376,187255,"Rose Canyon Campground, Mt Lemmon, AZ, United States",sleep
+377,187256,"Spencer Canyon Campground, Mt Lemmon, AZ, United States",sleep
+378,187589,"Morley Avenue, Nogales, Arizona, United States of America",see
+379,187671,"July 4th Sidewalk Egg Frying Contest, Oatman, AZ, United States",do
+380,188177,"Hilltop Campground, Prescott, AZ, United States",sleep
+381,188178,"Watson Lake Campground, Prescott, AZ, United States",sleep
+382,188179,"White Spar Campground, Prescott, AZ, United States",sleep
+383,188180,"Yavapai Campground, Prescott, AZ, United States",sleep
+384,188245,"Dome Rock Mountain Camping Area, Quartzsite, AZ, United States",sleep
+385,188246,"Roadrunner Camping Area, Salome, AZ, United States",sleep
+386,188247,"Scadden Wash Camping Area, Quartzsite, AZ, United States",sleep
+387,188832,"Main Street Sedona, Sedona, AZ, United States",buy
+388,188910,"Old Post Cemetery, Fort Huachuca, AZ, United States",see
+389,188911,"Buffalo Corral Riding Stables, Sierra Vista, AZ, United States",do
+390,189053,"White Rock Campground, Nogales, AZ, United States",sleep
+391,189054,"Cochise Stronghold Campground, Cochise, AZ, United States",sleep
+392,189055,"Idlewilde Campground, San Simon, AZ, United States",sleep
+393,189056,"Sunny Flat Campground, San Simon, AZ, United States",sleep
+394,189057,"Indian Bread Rocks Picnic Area, Bowie, AZ, United States",sleep
+395,189058,"Lakeview Campground, Elgin, AZ, United States",sleep
+396,189514,"Tempe Town Lake, Tempe, AZ, United States",do
+397,191530,"Lockett Meadow Campground, Flagstaff, AZ, United States",sleep
+398,191531,"Walnut Canyon National Monument, Flagstaff, AZ, United States",other
+399,191750,"Grand Canyon Skywalk, Meadview, AZ, United States",see
+400,191751,"North Kaibab Trail, North Rim, AZ, United States",do
+401,191752,"Hermit Trail, Grand Canyon, AZ, United States",do
+402,191753,"Lookout Studio, Grand Canyon, AZ, United States",buy
+403,193213,"Morenci Mine Overlook, Clifton, AZ, United States",see
+404,193243,"Gordon Hirabayashi Campground, Mt Lemmon, AZ, United States",sleep
+405,193244,"General Hitchcock Campground, Mt Lemmon, AZ, United States",sleep
+406,193901,"Whiskey Row, Prescott, AZ, United States",drink
+407,193944,"Hi Jolly Monument, Quartzsite, AZ, United States",see
+408,194338,"Bell Rock Pathway / Vista, Sedona, AZ, United States",do
+409,194416,"Reef Townsite Campground, Hereford, AZ, United States",sleep
+410,194515,"Bog Springs Campground, Sahuarita, AZ, United States",sleep
+411,194516,"Stewart Campground, San Simon, AZ, United States",sleep
+412,194855,"Northlight Gallery, Tempe, AZ, United States",see
+413,195261,"Winterhaven Festival of Lights, Tucson, AZ, United States",do
+414,195262,"San Xavier Plaza, Tucson, AZ, United States",buy
+415,195805,"Homolovi State Park, Winslow, AZ, United States",see
+416,195806,"Take It Easy, Winslow, AZ, United States",see
+417,197888,"Tombstone, Arizona, Tombstone, AZ, United States",other
+418,197896,"Oatman, Arizona, Oatman, AZ, United States",see
+419,197897,"Gleeson, Elfrida, AZ, United States",see
+420,198920,"Wet'n'Wild, Glendale, AZ, United States",do
+421,198921,"Breakers Water Park, Marana, AZ, United States",do
+422,198922,"Sky Zone Peoria, Peoria, AZ, United States",do
+423,198923,"Castles~n~Coasters, Phoenix, AZ, United States",do
+424,198925,"Trail Dust Town, Tucson, AZ, United States",do
+425,199657,"Superstition Wilderness, Arizona, United States of America",do
+426,200306,"Sears Point, Arizona, United States of America",see
+427,200401,"Salt River Canyon Wilderness, AZ, United States",do
+428,200476,"Mount Elden, Flagstaff, AZ, United States",do
+429,200477,"San Francisco Peaks, Arizona, United States of America",do
+430,200478,"Fort Tuthill County Park Campground, Flagstaff, AZ, United States",sleep
+431,200479,"Wupatki National Monument, AZ, United States",other
+432,200480,"Sunset Crater Volcano National Monument, AZ, United States",other
+433,200626,"Desert View, AZ, United States",see
+434,200627,"Bright Angel Trail, Grand Canyon, AZ, United States",do
+435,200628,"South Kaibab Trail, Grand Canyon, AZ, United States",do
+436,200629,"Grandview Trail, Grand Canyon, AZ, United States",do
+437,200630,"Hopi House, Arizona, United States of America",buy
+438,200631,"North Rim Campground, AZ, United States",sleep
+439,201788,"Pusch Ridge Wilderness Area, Arizona, United States of America",do
+440,201789,"Molino Basin Campground, Tucson, AZ, United States",sleep
+441,201790,"Peppersauce Campground, Arizona, United States of America",sleep
+442,202102,"Alamo Campground, AZ, United States",sleep
+443,202103,"Twin Peaks campground, AZ, United States",sleep
+444,202145,"Ken's Tours, Arizona, United States of America",other
+445,202259,"Hike Thumb Butte, AZ, United States",do
+446,202260,"Lynx Campground, Arizona, United States of America",sleep
+447,202325,"Dripping Springs petroglyphs, Arizona, United States of America",see
+448,202326,"Tyson Wash grinding holes and petroglyphs, Arizona, United States of America",see
+449,202327,"Bouse Fisherman, Arizona, United States of America",see
+450,202328,"Kofa National Wildlife Refuge, Arizona, United States of America",do
+451,202329,"Crystal Hill Kofa Campground, Arizona, United States of America",sleep
+452,202645,"Brown Canyon Ranch, AZ, United States",do
+453,202726,"Ruby ghost town, Arizona, United States of America",see
+454,202727,"Baboquivari Peak Wilderness, AZ, United States",do
+455,202728,"Ironwood Forest National Monument, AZ, United States",do
+456,202729,"Presidio Santa Cruz de Terranate, AZ, United States",see
+457,202730,"Dragoon Springs, AZ, United States",do
+458,202731,"Cochise Stronghold, AZ, United States",do
+459,202732,"Council Rocks, AZ, United States",do
+460,202733,"Rock climbing, Arizona, United States of America",do
+461,203161,"Santa Catalina Mountains, AZ, United States",do
+462,203162,"University of Arizona, Tucson, Arizona, United States of America",other
+463,203537,"Meteor Crater, AZ, United States",see
+464,203538,"Brigham City ghost town, Winslow, AZ, United States",see
+465,203539,"Homolovi State Park Campground, AZ, United States",sleep
+466,203715,"Mittry Lake Wildlife Area, AZ, United States",sleep
+467,204068,"Kartchner Caverns State Park, Arizona, United States of America",see
+468,204069,"French Joe Canyon, AZ, United States",do
+469,204070,"Guindani Trail (#398), AZ, United States",do
+470,204145,"Sanchez CCC Camp, Arizona, United States of America",see
+471,204146,"Pinaleño Mountains, Arizona, United States of America",do
+472,204147,"Black Hills Rockhound Area, AZ, United States",do
+473,204151,"Patagonia-Sonoita Creek Preserve, Arizona, United States of America",do
+474,204792,"Monument Valley, Arizona, AZ, United States",other
+475,204896,"Yuma, Arizona, Yuma, AZ, United States",other
+476,205494,"Buckeye Aquatics Center, Buckeye, AZ, United States",do
+477,205497,"Enchanted Island Amusement Park, Phoenix, AZ, United States",do
+478,205498,"Big Surf Waterpark, Tempe, Arizona, United States of America",do
+479,205499,"Funtasticks Family Fun Park, Tucson, Arizona, United States of America",do
+480,205500,"Old Tucson, Tucson, AZ, United States",do
